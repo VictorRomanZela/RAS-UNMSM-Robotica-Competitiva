@@ -1,6 +1,7 @@
 #include <SoftwareSerial.h>
 
 // CONFIGURACIÓN DEL BLUETOOTH HC-05 
+SoftwareSerial BT(3, 4);
 
 // PINES DEL MOTOR IZQUIERDO
 #define PWMA 6  
