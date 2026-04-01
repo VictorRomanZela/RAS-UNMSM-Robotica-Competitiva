@@ -3,14 +3,14 @@
 // CONFIGURACIÓN DEL BLUETOOTH HC-05 
 
 // PINES DEL MOTOR IZQUIERDO
-#define PWMA 5  
-#define AIN1 2  
-#define AIN2 7  
+#define PWMA 6  
+#define AIN1 8  
+#define AIN2 7 
 
 // PINES DEL MOTOR DERECHO
-#define PWMB 6  
-#define BIN1 8  
-#define BIN2 12 
+#define PWMB 5  
+#define BIN1 10  
+#define BIN2 11 
 
 // PIN DE ACTIVACIÓN DEL DRIVER 
 #define STBY 9  
