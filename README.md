@@ -1,6 +1,6 @@
 <div align="center">
 
-# RAS-UNMSM-Robotica-Competitiva 🦾🤖
+# RAS-UNMSM-Robotica-Competitiva 🤖
 
 ¡Bienvenido al repositorio oficial de robótica competitiva del capítulo **IEEE RAS UNMSM**!  
 Este espacio está diseñado para ser la base de conocimiento de quienes desean dar sus  
